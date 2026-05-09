@@ -151,6 +151,13 @@ SESSION_COOKIE_HTTPONLY = True
 SESSION_COOKIE_AGE = 86400  # 24 hours
 
 CSRF_COOKIE_SECURE = not DEBUG
+# Always set trusted origins so CSRF works behind Railway's reverse proxy
+# regardless of whether DEBUG is True or False.
+CSRF_TRUSTED_ORIGINS = config(
+    'CSRF_TRUSTED_ORIGINS',
+    default='https://*.railway.app,http://localhost,http://127.0.0.1',
+    cast=Csv(),
+)
 
 # ─── Security Headers (production) ───────────────────────────────────────────
 if not DEBUG:
@@ -158,11 +165,5 @@ if not DEBUG:
     SECURE_HSTS_SECONDS = 31536000
     SECURE_HSTS_INCLUDE_SUBDOMAINS = True
     SECURE_HSTS_PRELOAD = True
-    # Trust Railway's auto-generated domain and any custom domain
-    CSRF_TRUSTED_ORIGINS = config(
-        'CSRF_TRUSTED_ORIGINS',
-        default='https://*.railway.app',
-        cast=Csv(),
-    )
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
