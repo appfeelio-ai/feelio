@@ -161,7 +161,7 @@ if not DEBUG:
     # Trust Railway's auto-generated domain and any custom domain
     CSRF_TRUSTED_ORIGINS = config(
         'CSRF_TRUSTED_ORIGINS',
-        default='https://*.up.railway.app',
+        default='https://*.railway.app',
         cast=Csv(),
     )
 
