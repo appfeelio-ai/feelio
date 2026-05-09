@@ -7,6 +7,8 @@ import os
 from pathlib import Path
 from decouple import config, Csv
 import dj_database_url
+import pymysql
+pymysql.install_as_MySQLdb()
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
