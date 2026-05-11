@@ -1,0 +1,142 @@
+[
+  {
+    "model": "resources.article",
+    "pk": 1,
+    "fields": {
+      "title": "What Is Postpartum Depression? A Simple Guide",
+      "slug": "what-is-postpartum-depression",
+      "category": "understanding_ppd",
+      "summary": "Postpartum depression is more than the 'baby blues'. Learn what it really is, how common it is, and why it is never your fault.",
+      "content": "<p>Postpartum depression (PPD) is a mood disorder that affects mothers after childbirth. Unlike the brief 'baby blues' that fade within two weeks, PPD can last months and significantly affect daily life.</p><h3>How Common Is It?</h3><p>PPD affects roughly 1 in 7 mothers worldwide. In Sri Lanka, studies suggest the rate is even higher due to social and economic pressures. You are not alone.</p><h3>What Does It Feel Like?</h3><ul><li>Persistent sadness or emptiness</li><li>Loss of interest in activities you used to enjoy</li><li>Difficulty bonding with your baby</li><li>Extreme fatigue beyond normal new-mother tiredness</li><li>Feelings of worthlessness or guilt</li><li>Trouble sleeping even when the baby sleeps</li></ul><h3>Why Does It Happen?</h3><p>After birth, hormone levels drop sharply. Add sleep deprivation, physical recovery, and new responsibilities — and the brain can become overwhelmed. PPD is a medical condition, not a character flaw or sign of being a bad mother.</p><h3>When to Seek Help</h3><p>If symptoms last more than two weeks or feel severe, please speak to a doctor, midwife, or mental health professional. Effective treatment is available and recovery is possible.</p>",
+      "image": null,
+      "is_published": true,
+      "created_at": "2026-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "resources.article",
+    "pk": 2,
+    "fields": {
+      "title": "Baby Blues vs. Postpartum Depression: Know the Difference",
+      "slug": "baby-blues-vs-postpartum-depression",
+      "category": "understanding_ppd",
+      "summary": "Many new mothers feel emotional after birth. Here is how to tell whether what you are experiencing is normal baby blues or something that needs support.",
+      "content": "<p>Almost 80% of new mothers experience the 'baby blues' — a brief period of mood swings, tearfulness, and anxiety in the first week after birth. This is caused by hormonal shifts and usually resolves on its own within 10–14 days.</p><h3>Signs of Baby Blues</h3><ul><li>Crying for no clear reason</li><li>Irritability and mood swings</li><li>Feeling overwhelmed</li><li>Difficulty sleeping</li></ul><p>These feelings are normal and temporary. Rest, support from loved ones, and gentle self-care usually help.</p><h3>When It Might Be PPD</h3><p>If those feelings do not improve after two weeks — or get worse — it could be postpartum depression. Key differences include:</p><ul><li><strong>Duration:</strong> PPD lasts weeks or months, not days.</li><li><strong>Severity:</strong> PPD significantly interferes with your ability to care for yourself or your baby.</li><li><strong>Hopelessness:</strong> PPD often includes feelings of being a bad mother or that things will never improve.</li></ul><p>If you are unsure, track your feelings in Feelio and speak to your doctor or PHM. Early support makes a big difference.</p>",
+      "image": null,
+      "is_published": true,
+      "created_at": "2026-01-02T00:00:00Z"
+    }
+  },
+  {
+    "model": "resources.article",
+    "pk": 3,
+    "fields": {
+      "title": "5 Common Myths About Postpartum Depression — Debunked",
+      "slug": "myths-about-postpartum-depression",
+      "category": "myth_busting",
+      "summary": "Stigma and misinformation stop many mothers from getting help. Let us bust the most common myths about PPD once and for all.",
+      "content": "<p>Shame and silence keep many mothers from seeking help. These five myths are among the most damaging — and most wrong.</p><h3>Myth 1: 'Good mothers don't get PPD'</h3><p><strong>Truth:</strong> PPD is caused by hormonal changes and stress — not by how much you love your baby. It affects mothers of all backgrounds, including devoted, experienced, and loving ones.</p><h3>Myth 2: 'You will always feel sad if you have PPD'</h3><p><strong>Truth:</strong> PPD can also show up as anger, numbness, anxiety, or feeling disconnected — not just sadness. Many women describe feeling nothing at all.</p><h3>Myth 3: 'Talking about it will make things worse'</h3><p><strong>Truth:</strong> Talking about PPD is one of the most powerful steps toward recovery. Isolation makes symptoms worse. Support makes them better.</p><h3>Myth 4: 'Medication will harm my baby if I am breastfeeding'</h3><p><strong>Truth:</strong> Many antidepressants are considered safe during breastfeeding. A doctor can guide you to the right option for your situation.</p><h3>Myth 5: 'PPD means you want to harm your baby'</h3><p><strong>Truth:</strong> This is very rare and is a separate condition. Most mothers with PPD are deeply worried about their baby's wellbeing — not a danger to them.</p>",
+      "image": null,
+      "is_published": true,
+      "created_at": "2026-01-03T00:00:00Z"
+    }
+  },
+  {
+    "model": "resources.article",
+    "pk": 4,
+    "fields": {
+      "title": "'She Seems Fine' — Why PPD Is Often Invisible",
+      "slug": "ppd-is-often-invisible",
+      "category": "myth_busting",
+      "summary": "Postpartum depression does not always look like crying. Many mothers mask their struggles perfectly. Here is what to look for beneath the surface.",
+      "content": "<p>One of the cruelest aspects of postpartum depression is that it is easy to hide. Mothers are under enormous pressure to appear happy and capable, so many learn to put on a smile at family visits while falling apart inside.</p><h3>The 'Smiling Depression' Pattern</h3><p>A mother with hidden PPD might:</p><ul><li>Post cheerful photos on social media while feeling hollow</li><li>Say 'I'm fine, just tired' to every concerned question</li><li>Take perfect care of the baby while neglecting herself entirely</li><li>Avoid asking for help out of fear of being judged</li></ul><h3>Why Mothers Hide It</h3><p>Fear of being seen as a bad mother, fear of having the baby taken away, or simply not recognising their own symptoms — all of these keep women silent.</p><h3>What Actually Helps</h3><p>Non-judgmental check-ins matter more than asking 'are you okay?' Try asking: 'What has been the hardest part this week?' or 'Can I come over and help with anything?'. Creating safe space is the first step to helping a mother open up.</p>",
+      "image": null,
+      "is_published": true,
+      "created_at": "2026-01-04T00:00:00Z"
+    }
+  },
+  {
+    "model": "resources.article",
+    "pk": 5,
+    "fields": {
+      "title": "How Partners Can Support a Mother with PPD",
+      "slug": "how-partners-can-support-ppd",
+      "category": "for_family",
+      "summary": "When your partner is struggling with postpartum depression, it can feel helpless. Here are practical, compassionate ways to show up for her.",
+      "content": "<p>Postpartum depression does not only affect the mother — it affects the whole family. Partners play a critical role in recovery, but knowing what to do is not always obvious.</p><h3>What She Needs Most</h3><ul><li><strong>To be believed:</strong> Do not minimise her feelings. 'You should be happy — you have a beautiful baby' is one of the most harmful things to say.</li><li><strong>Practical help:</strong> Take over night feeds, cook a meal, do the laundry. Reducing her physical load matters enormously.</li><li><strong>Presence without pressure:</strong> Sit with her. You do not need to fix anything — just be there.</li></ul><h3>What to Avoid</h3><ul><li>Do not compare her to other mothers</li><li>Do not tell her to 'snap out of it'</li><li>Do not leave her alone for long periods without checking in</li></ul><h3>Encourage Professional Help</h3><p>Offer to attend a doctor's appointment with her. Sometimes the hardest part is making the first call — offer to do that together. Remind her that seeking help is a sign of strength, not failure.</p><h3>Take Care of Yourself Too</h3><p>Partners of mothers with PPD are at higher risk of depression themselves. Do not neglect your own mental health in the process of caring for hers.</p>",
+      "image": null,
+      "is_published": true,
+      "created_at": "2026-01-05T00:00:00Z"
+    }
+  },
+  {
+    "model": "resources.article",
+    "pk": 6,
+    "fields": {
+      "title": "What Family Members Should Know About PPD",
+      "slug": "what-family-should-know-about-ppd",
+      "category": "for_family",
+      "summary": "In Sri Lankan families, grandmothers, aunts, and mothers-in-law often play a big role after birth. Here is how extended family can help — or hurt — a mother's recovery.",
+      "content": "<p>In our culture, the months after birth are full of family involvement. This can be a wonderful source of support — or a source of pressure that makes PPD worse. Understanding the difference is important.</p><h3>Helpful Things Family Can Do</h3><ul><li>Take over household tasks without being asked</li><li>Give the mother uninterrupted time to sleep</li><li>Speak kindly about her struggles — not with shame</li><li>Avoid giving unsolicited parenting advice</li><li>Never compare her to other mothers or herself before the baby</li></ul><h3>Things That Make PPD Worse</h3><ul><li>Saying 'in our day we just got on with it'</li><li>Suggesting she is ungrateful for her baby</li><li>Dismissing her feelings as weakness or laziness</li><li>Gossiping about her struggles to others</li></ul><h3>The Role of Cultural Expectations</h3><p>Sri Lankan mothers often feel they must be selfless, strong, and endlessly giving. When PPD makes this impossible, the gap between expectation and reality deepens the shame. Family can break this cycle by speaking openly and with compassion.</p>",
+      "image": null,
+      "is_published": true,
+      "created_at": "2026-01-06T00:00:00Z"
+    }
+  },
+  {
+    "model": "resources.article",
+    "pk": 7,
+    "fields": {
+      "title": "Treatment Options for Postpartum Depression",
+      "slug": "treatment-options-for-ppd",
+      "category": "treatment",
+      "summary": "PPD is treatable. From therapy to medication to lifestyle changes, here is an honest overview of what works and what to expect.",
+      "content": "<p>One of the most important things to know about postpartum depression is that it responds well to treatment. Most mothers recover fully with the right support.</p><h3>Talking Therapy (Counselling)</h3><p>Cognitive Behavioural Therapy (CBT) and interpersonal therapy are proven to reduce PPD symptoms. A counsellor helps you identify negative thought patterns and develop healthier coping strategies. You do not need to be in crisis to benefit from therapy.</p><h3>Medication</h3><p>Antidepressants — particularly SSRIs like sertraline or fluoxetine — are commonly prescribed for PPD. Many are safe during breastfeeding. Medication usually takes 2–4 weeks to take effect. Always consult a psychiatrist or doctor before starting or stopping any medication.</p><h3>Social Support</h3><p>Research consistently shows that social connection is one of the strongest protective factors against PPD. Peer support groups — including online communities — can reduce feelings of isolation significantly.</p><h3>Lifestyle Factors</h3><ul><li><strong>Sleep:</strong> Even short, regular sleep periods help regulate mood. Accept help with night feeds when possible.</li><li><strong>Movement:</strong> A 20-minute walk daily has been shown to reduce PPD symptoms.</li><li><strong>Nutrition:</strong> Eating regularly and staying hydrated supports recovery.</li></ul><h3>In Sri Lanka</h3><p>NIMH (National Institute of Mental Health) provides free psychiatric services. Your PHM (Public Health Midwife) can refer you to a local mental health clinic. Use the Feelio PHM Locator to find your nearest contact.</p>",
+      "image": null,
+      "is_published": true,
+      "created_at": "2026-01-07T00:00:00Z"
+    }
+  },
+  {
+    "model": "resources.article",
+    "pk": 8,
+    "fields": {
+      "title": "Can Therapy Really Help? What to Expect from Your First Session",
+      "slug": "what-to-expect-from-therapy",
+      "category": "treatment",
+      "summary": "Many mothers hesitate to try therapy because they do not know what it involves. Here is an honest, calming guide to your first counselling session.",
+      "content": "<p>The idea of talking to a stranger about your deepest struggles can feel daunting. But therapy is one of the most effective tools for overcoming PPD. Here is what you can expect.</p><h3>Before You Go</h3><p>You do not need to prepare anything. You do not need to have a clear story or be able to explain everything. You just need to show up.</p><h3>What Happens in the First Session</h3><p>Your therapist will ask about what brought you in, your general background, and what you are hoping to get from therapy. This is not a test — there are no wrong answers. The first session is mostly about helping you feel comfortable and understood.</p><h3>Common Worries</h3><ul><li><strong>'What if I cry?'</strong> — Crying is completely normal and welcomed. Therapists are trained to handle it with care.</li><li><strong>'What if they judge me?'</strong> — A good therapist is entirely non-judgmental. Their role is to support you, not evaluate you.</li><li><strong>'Will they take my baby away?'</strong> — No. Seeking help shows you are a responsible, caring mother. It works in your favour, not against you.</li></ul><h3>How Many Sessions Will I Need?</h3><p>This varies. Some mothers feel significant relief after 6–8 sessions. Others benefit from longer support. Your therapist will work with you to find the right pace.</p>",
+      "image": null,
+      "is_published": true,
+      "created_at": "2026-01-08T00:00:00Z"
+    }
+  },
+  {
+    "model": "resources.article",
+    "pk": 9,
+    "fields": {
+      "title": "5 Small Things That Can Genuinely Lift Your Mood",
+      "slug": "small-things-that-lift-mood",
+      "category": "general",
+      "summary": "When everything feels heavy, even tiny steps count. Here are five evidence-backed habits that new mothers can do today to support their mental wellbeing.",
+      "content": "<p>Recovery from PPD is not always dramatic. Often it is a series of small, quiet choices made each day. Here are five that research and experience show really work.</p><h3>1. Go Outside — Even for 10 Minutes</h3><p>Natural light helps regulate your body's mood-related hormones. Even a short walk around the block with the pram can meaningfully shift how you feel.</p><h3>2. Connect with One Person</h3><p>Not a big social event — just a message to a friend, a call to your mother, or a conversation with your neighbour. Human connection is a biological need. Even brief contact helps.</p><h3>3. Eat Something Nourishing</h3><p>When you are exhausted and overwhelmed, eating well falls away. But your brain needs fuel. Even a banana and a glass of water is better than nothing.</p><h3>4. Name What You Are Feeling</h3><p>Research shows that simply labelling an emotion — 'I feel anxious right now' — reduces its intensity. Your Feelio mood tracker is a great place to practise this.</p><h3>5. Do One Thing Just for You</h3><p>Not for the baby. Not for your family. Just for you. A cup of tea while it is still hot. A song you love. Five minutes of quiet. It matters. You matter.</p>",
+      "image": null,
+      "is_published": true,
+      "created_at": "2026-01-09T00:00:00Z"
+    }
+  },
+  {
+    "model": "resources.article",
+    "pk": 10,
+    "fields": {
+      "title": "Your Body After Birth: What Nobody Tells You",
+      "slug": "your-body-after-birth",
+      "category": "general",
+      "summary": "Postpartum physical recovery is rarely discussed honestly. Understanding what is normal can reduce anxiety and help you be kinder to yourself.",
+      "content": "<p>So much attention goes to the baby that mothers are often left confused and unprepared for what happens to their own bodies after birth. Here is an honest guide.</p><h3>Hormonal Changes</h3><p>In the days after birth, oestrogen and progesterone levels plummet. This is the single biggest driver of the baby blues and a major contributor to PPD. These changes are not in your control — your body is going through something enormous.</p><h3>Physical Recovery</h3><ul><li>Perineal soreness or caesarean wound pain can last weeks</li><li>Night sweats are common as your body sheds fluid</li><li>Hair loss at 3–4 months postpartum is normal and temporary</li><li>Your periods may not return for months, especially if breastfeeding</li></ul><h3>Breastfeeding and Mental Health</h3><p>Breastfeeding can be wonderful, but it is also physically demanding and sometimes painful. If breastfeeding is causing significant stress or pain, it is okay to reconsider. Your mental health matters for your baby too.</p><h3>Being Kind to Your Body</h3><p>Your body just did something extraordinary. It grew and delivered a human being. Give it time. Give it grace. The pressure to 'bounce back' is a cultural myth — not a medical standard. Healing takes time, and that is completely okay.</p>",
+      "image": null,
+      "is_published": true,
+      "created_at": "2026-01-10T00:00:00Z"
+    }
+  }
+]
