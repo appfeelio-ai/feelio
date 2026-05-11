@@ -47,7 +47,7 @@ def logout_view(request):
 
 @login_required
 def profile_setup_view(request):
-    profile, _ = UserProfile.objects.get_or_create(user=request.user)
+    profile, _created = UserProfile.objects.get_or_create(user=request.user)
     if request.method == 'POST':
         form = ProfileSetupForm(request.POST, instance=profile)
         if form.is_valid():
@@ -61,7 +61,7 @@ def profile_setup_view(request):
 
 @login_required
 def profile_view(request):
-    profile, _ = UserProfile.objects.get_or_create(user=request.user)
+    profile, _created = UserProfile.objects.get_or_create(user=request.user)
     user_form = UserSettingsForm(instance=request.user)
     profile_form = ProfileSetupForm(instance=profile)
 
